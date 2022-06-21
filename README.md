@@ -1,8 +1,8 @@
-# FDEF: a feature-division ensemble framework for gene regulatory network inference
+# FDENET: a feature-division ensemble framework for gene regulatory network inference
 
 ## Description
 
-The method, FDENET, was created and tested using  MATLAB®  2016b. Please refer to our manuscript termed “FDEF: a feature-division ensemble framework for gene regulatory network inference” for more detailed information about this algorithm.
+The method, FDENET, was created and tested using  MATLAB®  2016b. Please refer to our manuscript termed “FDENET: a feature-division ensemble framework for gene regulatory network inference” for more detailed information about this algorithm.
 
 ## The describe of the files
 
